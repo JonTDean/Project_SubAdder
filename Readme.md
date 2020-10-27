@@ -6,6 +6,12 @@
 
 ### How to run
 
+```cli
+
+ npm start dev
+
+```
+
 ---
 
 ## Main Technologies Used
