@@ -7,16 +7,14 @@
 ### How to run
 
 ```cli
-
  npm start dev
-
 ```
 
 ---
 
 ## Main Technologies Used
 
-Frontend:
+**Frontend**:
 
 - Node
   - [API](https://nodejs.org/en/docs/)
@@ -27,7 +25,7 @@ Frontend:
 - Jest(Testing)
   - [API](https://jestjs.io/docs/en/getting-started)
 
-Backend:
+**Backend**:
 
 - Express v4(Backend Server)
   - [API](https://expressjs.com/en/4x/api.html)
@@ -38,7 +36,7 @@ Backend:
 - Jest(Testing)
   - [API](https://jestjs.io/docs/en/getting-started)
 
-Other:
+**Other**:
 
 - Concurrently (Stack Interconnectivity)
   - [API](https://www.npmjs.com/package/concurrently)
