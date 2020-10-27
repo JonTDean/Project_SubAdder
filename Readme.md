@@ -6,8 +6,23 @@
 
 ### How to run
 
+#### Start the Application
+
 ```cli
- npm start dev
+  npm i
+  npm start dev
+```
+
+#### Initiate Prettier to format the files
+
+<sub>Refer to docs if you're unable to run prettier</sub>
+
+```cli
+  npx prettier --write
+```
+
+```cli
+  npx prettier --check
 ```
 
 ---

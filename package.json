@@ -1,0 +1,25 @@
+{
+	"name": "project_subadder",
+	"version": "1.0.0",
+	"description": "Add subtitles to your favorite videos",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"server": "nodemon server --prefix server",
+		"client": "npm start --prefix client",
+		"dev": "concurrently \"npm run server\" \"npm run client\""
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/JonTDean/Project_SubAdder.git"
+	},
+	"author": "Jonathan Thomas Dean and Brandon Lee Michael Thomas Dietz",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/JonTDean/Project_SubAdder/issues"
+	},
+	"homepage": "https://github.com/JonTDean/Project_SubAdder#readme",
+	"devDependencies": {
+		"prettier": "2.1.2"
+	}
+}
